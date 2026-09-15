@@ -1,15 +1,15 @@
-#Molecular Docking
+# Molecular Docking
 
-#Why this matters?
+## Why this matters?
 
-#Start here (for Beginner)
+## Start here (for Beginner)
 
-#Deeper resources
+## Deeper resources
 
-#Tools & software
+## Tools & software
 
-#Common pitfalls
+## Common pitfalls
 
-#Related pages
+## Related pages
 
 [Back to home](https://github.com/arnabmk/resources)
