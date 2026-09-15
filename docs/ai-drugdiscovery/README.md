@@ -7,7 +7,11 @@ movies as "A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fi
 medicine last year (2025)
 
 ## Start here (for Beginner)
-
+1. Starts with this paper [Learning Molecular Representations for Medicinal Chemistry](https://pubs.acs.org/jmcmar/article/63/16/8705/1502164/Learning-Molecular-Representations-for-Medicinal)
+2. Learn the basic of [RDKit](https://www.rdkit.org/)
+3. For Machine Learning, start learning basic concepts from [Scikit-learn](https://scikit-learn.org/stable/)
+4. For Deep learning, start with tutorials available at [DeepChem](https://deepchem.io/)
+   
 ## Deeper resources
 
 ## Tools & software
