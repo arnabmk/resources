@@ -3,8 +3,14 @@
 ## Why this matters?
 
 ## Start here (for Beginner)
+1. Understand Protein Data Bank Data - [Learning Documentation](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/introduction)
+2. [Assessing the Quality of 3D Structures](https://www.rcsb.org/docs/general-help/assessing-the-quality-of-3d-structures)
+3. [Webinar on UniProt on EMBL-EBI](https://www.ebi.ac.uk/training/events/guide-uniprot-students-and-biological-scientists/)
+4. [Auto Dock Vina Official Documentation](https://autodock-vina.readthedocs.io/en/latest/)
 
 ## Deeper resources
+1. Schrodinger Webinar: [How to find a druggable target: A computational perspective](https://www.schrodinger.com/life-science/resources/webinar/how-to-find-a-druggable-target-a-computational-perspective/)
+2. Schrodinger Webinar: [In silico cryptic binding site detection and prioritization](https://www.schrodinger.com/life-science/resources/webinar/in-silico-cryptic-binding-site-detection-and-prioritization/)
 
 ## Tools & software
 
