@@ -3,12 +3,15 @@
 ## Why this matters?
 
 ## Start here (for Beginner)
-
+1. [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+   
 ## Deeper resources
 
 ## Tools & software
 1. [GROMACS](https://www.gromacs.org/)
 2. [Ubuntu on Windows Subsystem for Linux](https://ubuntu.com/wsl)
+3. [CHARMM Force Field](https://mackerell.umaryland.edu/charmm_ff.shtml)
+4. [CGenFF Webserver](https://cgenff.com/)
 
 ## Essential Papers
 1. [PyMACS: A python-based automation suite for GROMACS molecular dynamics setup, simulation, and analysis](https://www.sciencedirect.com/science/article/pii/S0223523426004836)
